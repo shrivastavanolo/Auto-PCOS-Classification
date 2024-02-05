@@ -29,7 +29,7 @@ This repository contains the code for a machine learning pipeline to classify ul
 
 ### Classification and Interpretability Plots
    - The following are pictures of the top 5 frames selected from the validation dataset, along with interpretability plots at 600 DPI:
-      1. ![Frame 1](link-to-frame1-image)
+      1. ![Frame 1](https://drive.google.com/file/d/1gSq75DktbBMLnLTjCZ0QgabfAvEzgOjr/view?usp=sharing)
       2. ![Frame 2](link-to-frame2-image)
       3. ![Frame 3](link-to-frame3-image)
       4. ![Frame 4](link-to-frame4-image)

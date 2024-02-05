@@ -28,20 +28,40 @@ This repository contains the code for a machine learning pipeline to classify ul
 | 1.5586 | 0.6641   | 0.8146     | 0.6591      | 0.8049   |
 
 ### Classification and Interpretability Plots
-   - The following are pictures of the top 5 frames selected from the validation dataset, along with interpretability plots at 600 DPI:
-      1. ![Frame 1](https://drive.google.com/file/d/1gSq75DktbBMLnLTjCZ0QgabfAvEzgOjr/view?usp=sharing)
-      2. ![Frame 2](link-to-frame2-image)
-      3. ![Frame 3](link-to-frame3-image)
-      4. ![Frame 4](link-to-frame4-image)
-      5. ![Frame 5](link-to-frame5-image)
+   - The following are pictures of the top 5 frames selected from the validation dataset, along with interpretability plots (1. Gradient Saturation 2. Integral Gradient):
+
+     
+      1. Image3823.jpg
+     ![Frame 1](https://drive.google.com/uc?export=view&id=1dSdpZeeZqle0b2Xppnpnbvf086SR34AA)
+
+      2. normal_15.jpg
+     ![Frame 2](https://drive.google.com/uc?export=view&id=124p-9B8LNt1D6liLL42I280Tb1gMUPyS)
+
+      3. 23image60.jpg
+     ![Frame 3](https://drive.google.com/uc?export=view&id=1wQyKXc7FqrKPVICRTh8D4CQV8bHDUBkI)
+
+      4. pco_5.jpg
+     ![Frame 4](https://drive.google.com/uc?export=view&id=1bcHIFeBYOsMxVq325pwzre0OYX11H3AA)
+
+      5. 1image40.jpg
+     ![Frame 5](https://drive.google.com/uc?export=view&id=1OeYdCvD6cgZtVQ6eTs1IXRk5TnQo00oU)
 
 ## Results on Testing Dataset
 
 ### Classification and Interpretability Plots
-   - The following are pictures of the top 5 frames selected from the testing dataset, along with interpretability plots at 600 DPI:
-      1. ![Frame 1](link-to-test-frame1-image)
-      2. ![Frame 2](link-to-test-frame2-image)
-      3. ![Frame 3](link-to-test-frame3-image)
-      4. ![Frame 4](link-to-test-frame4-image)
-      5. ![Frame 5](link-to-test-frame5-image)
+   - The following are pictures of the top 5 frames selected from the testing dataset, along with interpretability plots (1. Gradient Saturation 2. Integral Gradient):
+      1. image10002.jpg
+     ![Frame 1](https://drive.google.com/uc?export=view&id=1glX9OKb3LaHkCv1JeZacEQlDmbqpz49e)
+
+      2. image10087.jpg
+     ![Frame 2](https://drive.google.com/uc?export=view&id=1idwZ6KKJp9xfDSU9aNomCp5GD6xTBzfl)
+
+      3. image10057.jpg
+     ![Frame 3](https://drive.google.com/uc?export=view&id=1vMp7sMpIbOfRTMtZztKwioRR03Dl-8oV)
+
+      4. image10121.jpg
+     ![Frame 4](https://drive.google.com/uc?export=view&id=1JlMDFoCNeitwQHOEe3XSQIP1HQhPvnqr)
+
+      5. image10967.jpg
+     ![Frame 5](https://drive.google.com/uc?export=view&id=1i68BKZDZiv8W8LGQp5nbTN69EDQmNQRY)
 

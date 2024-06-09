@@ -27,9 +27,3 @@ This repository contains the code for a machine learning pipeline to classify ul
 |--------|----------|------------|-------------|----------|
 | 1.5586 | 0.6641   | 0.8146     | 0.6591      | 0.8049   |
 
-      4. image10121.jpg
-     ![Frame 4](https://drive.google.com/uc?export=view&id=1JlMDFoCNeitwQHOEe3XSQIP1HQhPvnqr)
-
-      5. image10967.jpg
-     ![Frame 5](https://drive.google.com/uc?export=view&id=1i68BKZDZiv8W8LGQp5nbTN69EDQmNQRY)
-
